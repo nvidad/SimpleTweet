@@ -29,9 +29,10 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+The Parceler library was used (stretch story) to pass Tweet data as one object, as denoted with the @Parcel annotation in the Tweet model class.
 
 I attempted to implement viewing tweets offline, however this led to the application crashing upon closing and reopening.
-The database connection implementation is commented out in TimelineAcitivty.java
+The database connection implementation is commented out in TimelineAcitivty.java.
 
 
 # Project 2 - *SimpleTweet Part 1*
